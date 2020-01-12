@@ -1,0 +1,10 @@
+*node_modules
+agarClone/node_modules
+nativeWs/node_modules
+socketio201/node_modules
+socketIO101/node_modules
+perfLoad/nodeClient/node_modules
+perfLoad/reactclient/node_modules
+perfLoad/server/node_modules
+socketio201/slack/node_modules
+.vscode
